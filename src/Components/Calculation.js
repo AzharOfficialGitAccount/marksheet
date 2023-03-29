@@ -13,6 +13,7 @@ function Marksheet() {
     subject5: "",
   });
   console.log(marks);
+  console.log('Test');
   const handleNameChange = (event) => {
     setName(event.target.value);
   };
