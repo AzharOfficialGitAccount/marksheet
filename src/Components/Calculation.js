@@ -14,6 +14,7 @@ function Marksheet() {
   });
   console.log(marks);
   console.log('Test');
+  console.log('Tes2');
   const handleNameChange = (event) => {
     setName(event.target.value);
   };
